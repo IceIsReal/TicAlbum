@@ -1,4 +1,4 @@
-package com.skypan.tikalbum
+package com.skypan.tikalbum.model
 
 import android.net.Uri
 

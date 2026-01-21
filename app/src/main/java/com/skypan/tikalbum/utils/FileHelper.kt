@@ -1,8 +1,10 @@
-package com.skypan.tikalbum
+package com.skypan.tikalbum.utils
 
 import android.content.Context
 import android.net.Uri
 import androidx.documentfile.provider.DocumentFile
+import com.skypan.tikalbum.model.MediaModel
+import com.skypan.tikalbum.model.MediaType
 
 object FileHelper {
     // 支持的后缀名清单
